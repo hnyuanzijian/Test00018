@@ -12,7 +12,7 @@ public class LibararyMain {
 		System.out.println("*                                      *");
 		System.out.println("*                                      *");
 		System.out.println("*                                      *");
-		System.out.println("*    1208java»ù´¡°àÍ¼Êé¹Ý                                           *");
+		System.out.println("*          1208java»ù´¡°àÍ¼Êé¹Ý                                    *");
 		System.out.println("*                                      *");
 		System.out.println("*                                      *");
 		System.out.println("*                                      *");
